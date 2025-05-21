@@ -13,7 +13,3 @@ Estrutura recomendada do projeto:
 ├── js/
 │   └── script.js
 └── README.txt
-
-Coloque imagens e arquivos estáticos em /assets.
-O CSS deve ficar em /css/style.css e o JavaScript em /js/script.js.
-Atualize os caminhos nos arquivos HTML conforme necessário. 
